@@ -394,7 +394,6 @@ border-radius: 4px;
     height: 40px;
     border-radius: 50%;
     background-color:#4D5AE5;
-    transition: all .3s;
 }
 
 .social-list-link:hover,
@@ -457,7 +456,6 @@ gap: 24px;
 
 .client-icon{
   fill: currentColor;
-    transition: all .3s;
 }
 
 
@@ -532,22 +530,19 @@ margin-bottom: 16px;
     height: 40px;
     border-radius: 50%;
     background-color:#4D5AE5;
-    transition: all .3s;  
     color: #F4F4FD;
 }
 
 
 .footer-list-icon{
     fill: currentColor;
-    transition: all .3s;
 }
 
 
 .footer-social-link:hover,
 .footer-social-link:focus{
-    background-color: #31d0aa;
+    background-color:#31d0aa; 
 }
-
 
 
 /*FOOTER******************************************/
