@@ -481,10 +481,12 @@ gap: 24px;
     display: flex;
     justify-content: flex-start;
     align-items: baseline;
-    gap: 120px;
+    
 }
 
-
+.footer-info{
+    margin-right: 120px;
+}
 
 .logo-footer{
     font-family:'Raleway', sans-serif;
