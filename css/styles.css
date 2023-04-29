@@ -397,11 +397,8 @@ border-radius: 4px;
     transition: all .3s;
 }
 
-.social-list-link:hover{
-    background-color: #404bbf;
-}
-
-.social-list-link:focus{
+.social-list-link:hover,
+.social-list-link:focus{ 
     background-color: #404bbf;
 }
 
@@ -525,13 +522,11 @@ margin-bottom: 16px;
     gap: 16px;
 }
 
-.footer-social-link:hover{
-    background-color: #31d0aa;
-}
-
+.footer-social-link:hover,
 .footer-social-link:focus{
     background-color: #31d0aa;
 }
+
 
 
 /*FOOTER******************************************/
